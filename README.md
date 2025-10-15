@@ -1,5 +1,5 @@
 # OIBSIP_dataanalytics_02
-Task 4: App Market Insights via Sentiment Analysis
+Task 2: App Market Insights via Sentiment Analysis
 Internship
 
 Oasis Infobyte – Data Science Internship (Virtual)
